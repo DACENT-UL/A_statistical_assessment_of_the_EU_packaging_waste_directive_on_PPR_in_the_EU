@@ -21,5 +21,6 @@ This files calculates net imports of plastic packing materials using the above d
 
 Then, the interupted time series analysis is performed for each of the 13 countries, using the net imports as a covariate and the data from recycling full.xlsx as the dependent. 
 
-This file also carries out the volume trend analysis. The recycling rates from recycling full.xlsx are multiplied by the corresponding generation value in generation full.xlsx to estimate the volume of plastic packaging waste recycled in each of the 13 countries in each year between 1999-2022. This, along with the raw values of plastic packaging generation from the generation full.xlsx file are used to perform the volume trend analysis. 
+This file carries out the volume trend analysis. The recycling rates from recycling full.xlsx are multiplied by the corresponding generation value in generation full.xlsx to estimate the volume of plastic packaging waste recycled in each of the 13 countries in each year between 1999-2022. This, along with the raw values of plastic packaging generation from the generation full.xlsx file are used to perform the volume trend analysis. 
+
 This file also creates the plots used form the publication.
