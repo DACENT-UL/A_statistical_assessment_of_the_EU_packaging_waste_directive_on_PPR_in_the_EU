@@ -11,7 +11,7 @@ This file has the imports data used to calculate net imports of plastic packagin
 This file has the data regarding the generation of plastic packaging waste, used in the post-hoc volume trend analysis. The recycling rates from recycling full.xlsx were multiplied by the generation figures in this dataset to estimate the volume of plastic packaging waste recycled. This data was obtained from Eurostat (DOI 10.2908/env_waspac). The data spans 1999-2022.
 
 # recycling full.xlsx
-This file has the data regarding the recycling rates of plastic packaging waste, used in the interrupted time series analysis. This data was obtained from Eurostat (online data code env_waspac). The data spans 1999-2022.
+This file has the data regarding the recycling rates of plastic packaging waste, used in the interrupted time series analysis. This data was obtained from Eurostat (DOI 10.2908/env_waspac). The data spans 1999-2022.
 
 # europeanSims.R
 This file carries out the statistical power and type I simulations which are detailed in the appendix of the manuscript.
